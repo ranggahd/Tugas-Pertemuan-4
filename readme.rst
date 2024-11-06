@@ -1,3 +1,7 @@
+NAMA : RANGGA PRASETYA
+NIM : 10122154
+KELAS : IF 4
+
 ###################
 What is CodeIgniter
 ###################
